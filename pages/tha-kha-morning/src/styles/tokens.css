@@ -1,0 +1,30 @@
+/* โทเคนสีและฟอนต์ของ ฝากราก | ROOTKEEPERS — ที่มา: CI Manual Rev 1.2 ส่วน 3–4
+   ห้ามเพิ่มสี/ฟอนต์นอกชุดนี้ (scripts/web_audit.py จะแจ้ง ERROR) */
+@font-face { font-family: 'Noto Sans Thai'; font-weight: 400; font-style: normal; font-display: swap; src: url('/fonts/NotoSansThai-Regular.ttf') format('truetype'); }
+@font-face { font-family: 'Noto Sans Thai'; font-weight: 500; font-style: normal; font-display: swap; src: url('/fonts/NotoSansThai-Medium.ttf') format('truetype'); }
+@font-face { font-family: 'Noto Sans Thai'; font-weight: 700; font-style: normal; font-display: swap; src: url('/fonts/NotoSansThai-Bold.ttf') format('truetype'); }
+
+:root {
+  --rk-green-deep: #024E25;
+  --rk-earth: #62331A;
+  --rk-green-bright: #4F9F20;
+  --rk-forest: #516D44;
+  --rk-sage: #819F70;
+  --rk-sand: #F3DAAE;
+  --rk-cream: #FBF6E8;
+  --rk-white: #FFFFFF;
+  --rk-brick: #B3541E;
+  --rk-green-mid: #2B7A46;
+  --rk-ink: #1E1E1E;
+
+  --font: 'Noto Sans Thai', 'Leelawadee UI', Tahoma, sans-serif;
+  --radius-s: 10px;
+  --radius-m: 18px;
+  --radius-l: 28px;
+  --radius-pill: 999px;
+  --shadow-s: 0 1px 2px color-mix(in srgb, var(--rk-earth) 12%, transparent), 0 4px 14px color-mix(in srgb, var(--rk-earth) 8%, transparent);
+  --shadow-m: 0 10px 32px color-mix(in srgb, var(--rk-green-deep) 18%, transparent);
+  --line: color-mix(in srgb, var(--rk-green-deep) 14%, transparent);
+  --ease: cubic-bezier(.22, .8, .24, 1);
+  --header-h: 68px;
+}

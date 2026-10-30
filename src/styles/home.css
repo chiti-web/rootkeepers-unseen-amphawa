@@ -1,0 +1,46 @@
+/* หน้าหลัก Unseen Amphawa — ใช้โทเคน CI จาก tokens.css เท่านั้น */
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; font-family: var(--font); color: var(--rk-ink); background: var(--rk-cream); line-height: 1.7; }
+img { max-width: 100%; display: block; }
+a { color: var(--rk-green-deep); }
+.skip { position: absolute; left: -999px; top: 0; background: var(--rk-cream); padding: .5rem 1rem; z-index: 10; }
+.skip:focus { left: 0; }
+
+.top { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .9rem clamp(1rem, 4vw, 3rem); background: var(--rk-green-deep); }
+.brand { display: inline-flex; align-items: center; gap: .6rem; color: var(--rk-cream); text-decoration: none; font-weight: 700; letter-spacing: .02em; white-space: nowrap; font-size: .95rem; }
+.logo { height: 44px; width: auto; }
+.release { white-space: nowrap; color: var(--rk-green-deep); background: var(--rk-sand); border-radius: var(--radius-pill); padding: .15rem .9rem; font-weight: 700; font-size: .95rem; }
+
+.hero { padding: clamp(2.5rem, 8vw, 6rem) clamp(1rem, 6vw, 5rem); background: linear-gradient(180deg, var(--rk-green-deep), var(--rk-forest)); color: var(--rk-cream); }
+.kicker { margin: 0 0 .5rem; color: var(--rk-sand); font-weight: 500; }
+.hero h1 { margin: 0 0 1rem; font-size: clamp(2.6rem, 9vw, 5rem); line-height: 1.15; letter-spacing: .02em; }
+.lead { max-width: 40rem; font-size: clamp(1.05rem, 2.4vw, 1.3rem); margin: 0 0 1rem; }
+.release-note { display: inline-block; margin: 0 0 1.5rem; padding: .25rem 1rem; border: 2px solid var(--rk-sand); border-radius: var(--radius-pill); color: var(--rk-sand); font-weight: 500; }
+.cta { display: inline-block; margin-top: .5rem; padding: .75rem 1.6rem; background: var(--rk-brick); color: var(--rk-cream); border-radius: var(--radius-pill); font-weight: 700; text-decoration: none; }
+.cta:hover, .cta:focus-visible { background: var(--rk-earth); }
+
+.places { padding: clamp(2rem, 6vw, 4rem) clamp(1rem, 6vw, 5rem); }
+.places h2, .about h2 { margin: 0 0 1.5rem; color: var(--rk-green-deep); font-size: clamp(1.6rem, 4vw, 2.2rem); }
+.grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr)); }
+.card { display: flex; flex-direction: column; background: var(--rk-white); border-radius: var(--radius-l); overflow: hidden; box-shadow: var(--shadow-s); }
+.card-img img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
+.card-body { padding: 1.2rem 1.4rem 1.5rem; display: flex; flex-direction: column; gap: .4rem; flex: 1; }
+.card-kicker { margin: 0; color: var(--rk-forest); font-size: .9rem; font-weight: 500; }
+.card h3 { margin: 0; font-size: 1.4rem; }
+.card h3 a { text-decoration: none; }
+.card-text { margin: 0; color: var(--rk-ink); flex: 1; }
+.card-links { display: flex; flex-wrap: wrap; gap: .6rem; margin: .8rem 0 0; }
+.btn { display: inline-block; padding: .5rem 1.1rem; border-radius: var(--radius-pill); background: var(--rk-green-deep); color: var(--rk-cream); font-weight: 700; text-decoration: none; font-size: .95rem; }
+.btn.ghost { background: transparent; color: var(--rk-green-deep); border: 2px solid var(--rk-green-deep); }
+.btn:hover, .btn:focus-visible { background: var(--rk-brick); border-color: var(--rk-brick); color: var(--rk-cream); }
+
+.about { padding: 0 clamp(1rem, 6vw, 5rem) clamp(2rem, 6vw, 4rem); max-width: 60rem; }
+.about p { margin: 0; }
+
+.foot { text-align: center; padding: 2rem 1rem; background: var(--rk-green-deep); color: var(--rk-cream); }
+.foot p { margin: .2rem 0; }
+.foot .small { color: var(--rk-sand); font-size: .9rem; }
+.foot-mark { height: 56px; margin: 0 auto .6rem; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+:focus-visible { outline: 3px solid var(--rk-brick); outline-offset: 2px; }

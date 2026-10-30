@@ -1,0 +1,122 @@
+[
+    {
+        "id":  "hero",
+        "file":  "images/fig05_boat_bow",
+        "alt":  "หัวเรือไม้ที่ใช้ล่อง ด้านหน้าคือแผงตลาดและสะพานที่ยังมีแสงไฟสะท้อนผิวน้ำ",
+        "caption":  "หัวเรือไม้ที่ใช้ล่อง ด้านหน้าคือแผงตลาดและสะพานที่ยังมีแสงไฟ",
+        "width":  1600,
+        "height":  820,
+        "focus":  "50% 60%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "sign",
+        "file":  "images/fig01_signpost",
+        "alt":  "ป้ายสีน้ำเงินบอกทาง ตลาดน้ำท่าคา THAKHA FLOATING MARKET ริมถนนยามค่ำ",
+        "caption":  "ป้ายบอกทาง \"ตลาดน้ำท่าคา THAKHA FLOATING MARKET\" ริมถนนก่อนเข้าตลาด",
+        "width":  1108,
+        "height":  1477,
+        "focus":  "50% 42%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "entrance",
+        "file":  "images/fig02_market_entrance",
+        "alt":  "ป้ายสีน้ำเงินหน้าทางเข้าตลาดน้ำท่าคา Tha kha floating Market ยามค่ำ",
+        "caption":  "ป้ายหน้าทางเข้าตลาดน้ำท่าคายามค่ำ",
+        "width":  1108,
+        "height":  1477,
+        "focus":  "50% 38%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "stalls",
+        "file":  "images/fig03_market_stalls",
+        "alt":  "แผงขายของริมคลองที่ยังเปิดไฟตอนค่ำ มีกล่องผลไม้วางเรียงและไม่เห็นผู้คน",
+        "caption":  "แผงขายของริมคลองที่ยังเปิดไฟตอนค่ำ ไม่เห็นผู้คน",
+        "width":  1600,
+        "height":  820,
+        "focus":  "40% 50%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "bow",
+        "file":  "images/fig04_market_bridge",
+        "alt":  "ตลาดริมคลองและสะพานไม้ยามค่ำ มองจากหัวเรือ มีแสงไฟสะท้อนผิวน้ำ และมีสุนัขเดินอยู่บนสะพาน",
+        "caption":  "ตลาดริมคลองและสะพานไม้ยามค่ำมองจากหัวเรือ",
+        "width":  1600,
+        "height":  820,
+        "focus":  "50% 55%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "glow",
+        "file":  "images/fig10_firefly_glow",
+        "alt":  "หิ่งห้อยตัวหนึ่งเรืองแสงสีเหลืองอมเขียวกลางความมืด เฟรมจากคลิปวิดีโอ",
+        "caption":  "หิ่งห้อยเรืองแสงสีเหลืองอมเขียวกลางความมืด (เฟรมจากคลิปวิดีโอ)",
+        "width":  1276,
+        "height":  648,
+        "focus":  "45% 50%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "palms",
+        "file":  "images/fig06_palm_tunnel",
+        "alt":  "ต้นมะพร้าวและต้นไม้สองฝั่งคลองยามค่ำ ภาพเบลอจากการเคลื่อนที่ของเรือ",
+        "caption":  "ต้นมะพร้าวและต้นไม้สองฝั่งคลองยามค่ำ ภาพเบลอจากการเคลื่อนที่ของเรือ",
+        "width":  1600,
+        "height":  820,
+        "focus":  "50% 45%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "canal",
+        "file":  "images/fig07_canal_banana",
+        "alt":  "หัวเรือไม้ ไม้พาย และต้นไม้ริมคลองที่เรือเคลื่อนผ่าน",
+        "caption":  "หัวเรือไม้ ไม้พาย และต้นไม้ริมคลองที่เรือเคลื่อนผ่าน",
+        "width":  1600,
+        "height":  820,
+        "focus":  "50% 60%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "garden",
+        "file":  "images/fig08_garden_house",
+        "alt":  "บ้านและสวนริมคลองที่ประดับไฟยามค่ำ",
+        "caption":  "บ้านและสวนริมคลองที่ประดับไฟยามค่ำ",
+        "width":  1600,
+        "height":  820,
+        "focus":  "50% 50%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    },
+    {
+        "id":  "trouser",
+        "file":  "images/fig09_firefly_on_trouser",
+        "alt":  "หิ่งห้อยเรืองแสงสีเหลืองเขียวเกาะอยู่บนผ้า เฟรมจากคลิปวิดีโอที่ถ่ายด้วยโหมดกลางคืน",
+        "caption":  "หิ่งห้อยเรืองแสงเกาะอยู่บนผ้า (เฟรมจากคลิปวิดีโอที่ถ่ายด้วยโหมดกลางคืน)",
+        "width":  1600,
+        "height":  745,
+        "focus":  "35% 40%",
+        "people":  false,
+        "consent":  "not-needed",
+        "safetyChecked":  true
+    }
+]

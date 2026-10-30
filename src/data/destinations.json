@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "woradech-farm",
+    "name": "วรเดชฟาร์ม",
+    "kicker": "ฐานการเรียนรู้การเลี้ยงหอยแครง · คลองโคน · ปากแม่น้ำแม่กลอง",
+    "headline": "เรื่องของหอยแครง คนปากอ่าว และลูกหอยที่ถูกปล่อยกลับบ้าน",
+    "youtube": "https://youtu.be/RmgD5UiirMM",
+    "image": "./images/woradech-farm.webp"
+  },
+  {
+    "slug": "khlong-chuchi",
+    "name": "บ้านคลองฉู่ฉี่",
+    "kicker": "หมู่บ้านประมงชายฝั่ง · ต.บางจะเกร็ง · ปลายแม่น้ำแม่กลอง",
+    "headline": "หมู่บ้านชาวประมงที่ปลายคลอง ที่ป่าชายเลนยังเป็นบ้านของปูและปลาตีน",
+    "youtube": "https://youtu.be/cLpycIMzL_E",
+    "image": "./images/khlong-chuchi.webp"
+  },
+  {
+    "slug": "mae-lam-yong",
+    "name": "ล้งปลาทูแม่ลำยอง",
+    "kicker": "บ้านทำปลาทู · แม่กลอง · จ.สมุทรสงคราม",
+    "headline": "ปลาทูหนึ่งตัวที่ไม่ได้มาจากตลาด และบ้านที่ตื่นทำงานตอนเที่ยงคืน",
+    "youtube": "https://youtu.be/sChiwZSJqhA",
+    "image": "./images/mae-lam-yong.webp"
+  },
+  {
+    "slug": "tha-kha-firefly",
+    "name": "ชมหิ่งห้อยตลาดน้ำท่าคา",
+    "kicker": "ตลาดน้ำท่าคา · ล่องเรือแจวกลางคืน · เส้นทาง Unseen Amphawa",
+    "headline": "ล่องเรือแจวในความมืด ลอดอุโมงค์ต้นไม้ ไปหาหิ่งห้อยที่คลองข้างตลาดน้ำท่าคา",
+    "youtube": "https://youtu.be/QVklQLsaHjQ",
+    "image": "./images/tha-kha-firefly.webp"
+  },
+  {
+    "slug": "tha-kha-morning",
+    "name": "ล่องเรือตลาดน้ำท่าคายามเช้า",
+    "kicker": "ตลาดน้ำท่าคา · เรือแจวตอนเช้า · สวนมะพร้าวน้ำหอม",
+    "headline": "คลองเดิมที่เห็นชัดขึ้นในแสงกลางวัน กับมะพร้าวน้ำหอมสดจากต้น",
+    "youtube": "https://youtu.be/sb0KA1kkLlg",
+    "image": "./images/tha-kha-morning.webp"
+  }
+]
