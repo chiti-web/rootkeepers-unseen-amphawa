@@ -9,11 +9,6 @@ export default function App() {
   return (
     <>
       <a className="skip" href="#pier">ข้ามไปเนื้อหา</a>
-      {site.draft && (
-        <p className="draft-bar" role="note">
-          ร่างภายใน ยังไม่เผยแพร่ · รอคนขับเรือและเจ้าของสวนตรวจข้อความและภาพ
-        </p>
-      )}
       <PageBar />
       <Header />
       <main id="main">

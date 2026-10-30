@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rootkeepers-unseen-amphawa.vercel.app/sitemap.xml

@@ -11,11 +11,6 @@ export default function App() {
   return (
     <>
       <a className="skip" href="#origin">ข้ามไปเนื้อหา</a>
-      {site.draft && (
-        <p className="draft-bar" role="note">
-          ร่างภายใน ยังไม่เผยแพร่ · รอเจ้าของฟาร์มและผู้อนุมัติตรวจข้อความและภาพ
-        </p>
-      )}
       <PageBar />
       <Header />
       <main id="main">
